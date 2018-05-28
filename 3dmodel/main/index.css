@@ -1,0 +1,12 @@
+.sketch-holder{
+    position: absolute;
+    z-index: -1;
+}
+.brand{
+    display: block;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    transition: 1s;
+    padding: 64px;
+}
